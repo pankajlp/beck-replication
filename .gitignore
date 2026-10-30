@@ -1,0 +1,24 @@
+# Data (large, derived from upstream repo)
+derived/
+rebuilt/
+upstream/
+published/
+
+# R project library
+Rlib/
+
+# Python venv
+.venv/
+
+# Large snapshots
+scripts/tree.json
+scripts/glmnet_tuning_files.txt
+
+# OS
+.DS_Store
+
+# Email drafts (private)
+EMAIL_*.md
+
+# HTML artifact (published separately)
+manuscript.html
